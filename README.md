@@ -10,3 +10,5 @@
 - Nvidia GPU drivers 551.52
 - Visual Studio
 
+![image](https://github.com/rhymus314/VisionTest/assets/70367915/2cc5eb09-6fcd-4a17-809e-bb2e3eeaa83d)
+
