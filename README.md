@@ -1,6 +1,6 @@
 # VisionTest
 
-## WSL Ubuntu 22.04LTS Env Setting
+### WSL Ubuntu 22.04 LTS Env Setting
 
 - Windows 11 64-bit
 - Python 3.9
